@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User failed to create a new address when filling in an incorrect ZIP</description>
+   <name>TC03_FailedtoSaveNewAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87b90d97-5ce4-484b-a539-764c431093f5</testCaseGuid>
+</TestCaseEntity>

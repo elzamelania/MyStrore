@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_EmptyCart</name>
+   <tag></tag>
+   <elementGuidId>ff7f2533-7556-40e1-b999-b986673dec6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='center_column']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.alert.alert-warning</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>91703b8f-99aa-4402-bac2-6cfda52f7d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-warning</value>
+      <webElementGuid>f4a9a167-a962-4868-bafb-ddd01f334a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your shopping cart is empty.</value>
+      <webElementGuid>3527865f-f445-411a-80e4-1e4b4d07dbe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;center_column&quot;)/p[@class=&quot;alert alert-warning&quot;]</value>
+      <webElementGuid>5d2f2ff2-0774-4492-96c2-37aee1c77dc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='center_column']/p</value>
+      <webElementGuid>59c2b8bf-e4d4-4abc-a20c-19563c089358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter'])[1]/preceding::p[1]</value>
+      <webElementGuid>04d7b11d-08ff-407d-8e43-c87f9ccdda32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/preceding::p[1]</value>
+      <webElementGuid>7c158834-3cce-410c-8db7-080e625d1485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your shopping cart is empty.']/parent::*</value>
+      <webElementGuid>d32400d0-b002-4357-b1d8-479ec8920d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>6ecc53db-2315-4bc4-8d4f-d86438344930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Your shopping cart is empty.' or . = 'Your shopping cart is empty.')]</value>
+      <webElementGuid>9d160449-a338-444c-a946-998865d40a09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

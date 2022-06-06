@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_ProductName</name>
+   <tag></tag>
+   <elementGuidId>15ab1bc9-3bc5-4264-842d-15a6333dcded</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='product_1_1_0_0']/td[2]/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.cart_description > p.product-name > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cd9c97c0-3c61-4f2e-95da-53d38b521dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://automationpractice.com/index.php?id_product=1&amp;controller=product#/size-s/color-orange</value>
+      <webElementGuid>1440e1fc-3463-4896-aec0-d2ff5e74d604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Faded Short Sleeve T-shirts</value>
+      <webElementGuid>3954cad7-d9b4-45a9-b79c-c071e6835bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product_1_1_0_0&quot;)/td[@class=&quot;cart_description&quot;]/p[@class=&quot;product-name&quot;]/a[1]</value>
+      <webElementGuid>24dd65d8-32a8-4825-bcb5-13458f40eefe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='product_1_1_0_0']/td[2]/p/a</value>
+      <webElementGuid>961156ff-1443-4542-8502-11ade8162659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Faded Short Sleeve T-shirts')])[2]</value>
+      <webElementGuid>d5acac3a-3374-4045-8db2-f2e97ef64b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$18.51'])[4]/following::a[2]</value>
+      <webElementGuid>83246b30-35b3-42cf-93b3-19fe33db92ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[6]/following::a[2]</value>
+      <webElementGuid>ffc4d46b-4115-4033-b2f2-8ea3cab3e071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SKU : demo_1'])[1]/preceding::a[1]</value>
+      <webElementGuid>0a162c0a-869e-4620-a8a1-4df87cb5485b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color : Orange, Size : S'])[2]/preceding::a[1]</value>
+      <webElementGuid>d915d109-6e4f-4686-8b98-ba6c121bcfb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[@href='http://automationpractice.com/index.php?id_product=1&amp;controller=product#/size-s/color-orange'])[6]</value>
+      <webElementGuid>e4a3d9a4-e0a1-41ac-9955-7e9016ff16c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/p/a</value>
+      <webElementGuid>c87d891f-9d3a-467f-bc30-a3580e203e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://automationpractice.com/index.php?id_product=1&amp;controller=product#/size-s/color-orange' and (text() = 'Faded Short Sleeve T-shirts' or . = 'Faded Short Sleeve T-shirts')]</value>
+      <webElementGuid>e9c5390c-244b-4ae9-ae4d-ef7871ee627e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

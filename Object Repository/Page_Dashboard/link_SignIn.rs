@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_SignIn</name>
+   <tag></tag>
+   <elementGuidId>a2077ad5-14b7-454c-a4a9-1ca5ef09bdda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div[2]/div/div/nav/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.login</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c5b3f5e-d949-4f68-a4a0-df510143e9d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login</value>
+      <webElementGuid>f83fd2c5-7ca6-4f35-8876-be066ceecfa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://automationpractice.com/index.php?controller=my-account</value>
+      <webElementGuid>6c71dba1-9e36-4873-878c-dcc75c874de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>6e618490-c7fc-416f-9da2-4064e3f9e620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Log in to your customer account</value>
+      <webElementGuid>f4b68895-9412-4616-a64b-0afa55fb26fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			Sign in
+		</value>
+      <webElementGuid>1d4eb0a7-b79d-45d2-bae0-59b848e69c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;nav&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/nav[1]/div[@class=&quot;header_user_info&quot;]/a[@class=&quot;login&quot;]</value>
+      <webElementGuid>fb4f4414-c51c-4892-b80a-7ae346bd6eaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div[2]/div/div/nav/div/a</value>
+      <webElementGuid>fa50bd37-9b12-4404-91d7-407d6aa51fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign in')]</value>
+      <webElementGuid>c7d20644-3c04-4daa-8816-56ca3656ec02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[1]/preceding::a[1]</value>
+      <webElementGuid>fbc9328a-4d60-4f69-9a86-09d441b9d83c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
+      <webElementGuid>1e36b455-b942-48cf-8e55-a9f4438ffb6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://automationpractice.com/index.php?controller=my-account']</value>
+      <webElementGuid>31219f64-82d9-4f40-9861-bbc12ed00fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/a</value>
+      <webElementGuid>ee299280-f3bf-457c-bb25-cbbf7b42af93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://automationpractice.com/index.php?controller=my-account' and @title = 'Log in to your customer account' and (text() = '
+			Sign in
+		' or . = '
+			Sign in
+		')]</value>
+      <webElementGuid>e828e900-feae-4a09-9cd1-66326436bb4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

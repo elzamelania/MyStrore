@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_ErrorZIPCode</name>
+   <tag></tag>
+   <elementGuidId>702f10b3-910c-4052-8f1b-22c154c33818</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='center_column']/div/div/ol/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ol > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b2a4abb5-1452-4154-a1a8-db94adf01154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Zip/Postal code you've entered is invalid. It must follow this format: 00000</value>
+      <webElementGuid>d64fb3b7-3c44-4e9f-9f04-217b7dbe94d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;center_column&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;alert alert-danger&quot;]/ol[1]/li[1]</value>
+      <webElementGuid>8aefe7d9-6834-44c9-b4c8-6404ef3ed568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='center_column']/div/div/ol/li</value>
+      <webElementGuid>99aee995-c5c6-4e9c-ac63-7a924975fb81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your addresses'])[2]/following::li[1]</value>
+      <webElementGuid>de79882a-c9dd-46a7-b111-e55876ba3c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your addresses'])[1]/following::li[1]</value>
+      <webElementGuid>5911358c-965f-4e94-9685-a15e96393cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::li[1]</value>
+      <webElementGuid>f30c98a5-c964-4c78-a883-7f8f40258268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li</value>
+      <webElementGuid>36e8e7be-f64e-476a-8100-1e5b7c6811e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;The Zip/Postal code you&quot; , &quot;'&quot; , &quot;ve entered is invalid. It must follow this format: 00000&quot;) or . = concat(&quot;The Zip/Postal code you&quot; , &quot;'&quot; , &quot;ve entered is invalid. It must follow this format: 00000&quot;))]</value>
+      <webElementGuid>77b2b779-31ba-4c06-8f71-28cff82b4650</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

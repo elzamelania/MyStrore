@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User failed to sign in using invalid password</description>
+   <name>TC01_FailedtoSignIn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a16c80c-6152-430e-b6df-cc54730a0090</testCaseGuid>
+</TestCaseEntity>
